@@ -19,11 +19,21 @@ In the first code example, an Interface **“Animal”** is made having an abstr
 
 <img width="230" height="410" alt="Screenshot 2025-12-28 040215" src="https://github.com/user-attachments/assets/4578d800-c002-4602-b8a2-d48fb29af093" />
 
+### OUTPUT:
+
+<img width="72" height="38" alt="output1" src="https://github.com/user-attachments/assets/560e7465-f4de-4ab8-99a4-687c8553cf62" />
+
+
 
 ## CODE#2:
 Just like the previous example, an interface **“payment”** is made having an abstract method **“pay”**. This method is then used by the derived classes **“cash”** & **“card”** to tell what payment method is being used to pay.
 
 <img width="283" height="413" alt="Screenshot 2025-12-28 040549" src="https://github.com/user-attachments/assets/dd025f8e-0142-4417-8677-2c4bc8b7063c" />
+
+### OUTPUT:
+
+<img width="172" height="35" alt="output2" src="https://github.com/user-attachments/assets/51363d82-ebb0-4aeb-b1fd-dff8c0952983" />
+
 
 
 ## CODE#3:
@@ -31,4 +41,6 @@ This code example is working on the interface **“Switchable”**. It has an ab
 
 <img width="275" height="427" alt="Screenshot 2025-12-28 040754" src="https://github.com/user-attachments/assets/36bb6236-91a9-4828-bffb-02066f0dcc36" />
 
+### OUTPUT:
 
+<img width="139" height="41" alt="output3" src="https://github.com/user-attachments/assets/d2ed4a9a-b241-4c3a-b32a-ddcbdde89b37" />
